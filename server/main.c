@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>     // exit, atoi
-#include <errno.h>		// errno
+#include <errno.h>      // errno
 #include <sys/socket.h> // socket, bind, listen, connect, accept, send, recv
 #include <netinet/in.h> // sockaddr_in
 #include <netdb.h>      // hostent (hostname), gethostbyname
